@@ -19,14 +19,14 @@
     },
     {
         "device_id": "da00a1e612552d01",
-        "key": "xayanff",
+        "key": "my",
         "expirydate": "08-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "073d00ee25853706",
-        "key": "new",
-        "expirydate": "15-10-2025",
+        "key": "xayanff",
+        "expirydate": "08-10-2025",
         "Allowoffline": false
     }
 ]
