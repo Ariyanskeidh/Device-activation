@@ -70,5 +70,11 @@
         "key": "irfan",
         "expirydate": "22-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e4d79e7d4294e3eb",
+        "key": "Gobindo",
+        "expirydate": "22-10-2025",
+        "Allowoffline": false
     }
 ]
