@@ -28,5 +28,11 @@
         "key": "xayanff",
         "expirydate": "08-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f85598c6311571ae",
+        "key": "Ibrahim",
+        "expirydate": "08-10-2025",
+        "Allowoffline": false
     }
 ]
