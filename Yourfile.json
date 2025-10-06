@@ -64,5 +64,11 @@
         "key": "shuvu567890",
         "expirydate": "07-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c32d3f69f4e06c33",
+        "key": "irfan",
+        "expirydate": "22-10-2025",
+        "Allowoffline": false
     }
 ]
