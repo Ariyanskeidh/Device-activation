@@ -76,5 +76,11 @@
         "key": "Gobindo",
         "expirydate": "22-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d3a03615a62f54ab",
+        "key": "ARMAAN",
+        "expirydate": "22-10-2025",
+        "Allowoffline": false
     }
 ]
