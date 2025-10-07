@@ -136,6 +136,12 @@
         "key": "SANJEETFF",
         "expirydate": "13-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "180d98a5f737fd11",
+        "key": "SANEET",
+        "expirydate": "13-10-2025",
+        "Allowoffline": true
     }
     
 ]
