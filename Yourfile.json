@@ -106,5 +106,12 @@
         "key": "ARMAANKHAN",
         "expirydate": "11-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fb66b2120d559d18",
+        "key": "PANELSM",
+        "expirydate": "11-10-2025",
+        "Allowoffline": false
     }
+    
 ]
