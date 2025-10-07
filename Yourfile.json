@@ -112,6 +112,12 @@
         "key": "PANELSM",
         "expirydate": "11-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6be72c32ab608d09",
+        "key": "SANJEET",
+        "expirydate": "13-10-2025",
+        "Allowoffline": false
     }
     
 ]
