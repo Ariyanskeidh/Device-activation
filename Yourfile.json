@@ -100,5 +100,11 @@
         "key": "Abuzar9090",
         "expirydate": "11-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e46df4be75dc8cc1",
+        "key": "ARMAANKHAN",
+        "expirydate": "11-10-2025",
+        "Allowoffline": false
     }
 ]
