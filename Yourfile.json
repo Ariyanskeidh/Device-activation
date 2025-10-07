@@ -142,6 +142,13 @@
         "key": "SANEET",
         "expirydate": "13-10-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c178ec62bfe98e3a",
+        "key": "Sanjeetxmod",
+        "expirydate": "13-10-2025",
+        "Allowoffline": true
     }
+    
     
 ]
