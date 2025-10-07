@@ -88,5 +88,11 @@
         "key": "Tarun",
         "expirydate": "11-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "da00a1e612552d01",
+        "key": "MY",
+        "expirydate": "11-10-2025",
+        "Allowoffline": false
     }
 ]
