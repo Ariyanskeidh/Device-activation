@@ -166,6 +166,12 @@
         "key": "IBRHIMFF",
         "expirydate": "13-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "35f72d976b4020ee",
+        "key": "Abuzar9090",
+        "expirydate": "13-10-2025",
+        "Allowoffline": true
     }
     
     
