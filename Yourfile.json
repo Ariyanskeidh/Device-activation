@@ -148,6 +148,12 @@
         "key": "Sanjeetxmod",
         "expirydate": "13-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bd3be348d2f439ab",
+        "key": "ZEN",
+        "expirydate": "13-10-2025",
+        "Allowoffline": false
     }
     
     
