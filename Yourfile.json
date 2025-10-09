@@ -84,12 +84,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "facaa60c15211854",
-        "key": "Tarun",
-        "expirydate": "11-10-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "da00a1e612552d01",
         "key": "MY",
         "expirydate": "11-10-2025",
@@ -177,6 +171,12 @@
         "device_id": "e68998a590adb915",
         "key": "Lucifer13",
         "expirydate": "13-10-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b183cc9adfcf3b4a",
+        "key": "Tarun",
+        "expirydate": "11-10-2025",
         "Allowoffline": true
     }
     
