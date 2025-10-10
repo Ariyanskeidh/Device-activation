@@ -178,6 +178,12 @@
         "key": "Tarun",
         "expirydate": "11-10-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ac21e263e6c6189d",
+        "key": "PANELSM",
+        "expirydate": "11-10-2025",
+        "Allowoffline": true
     }
     
     
