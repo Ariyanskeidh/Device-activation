@@ -184,6 +184,12 @@
         "key": "PANELSM",
         "expirydate": "11-10-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "311b3713789876af",
+        "key": "ANIL07",
+        "expirydate": "11-10-2026",
+        "Allowoffline": true
     }
     
     
